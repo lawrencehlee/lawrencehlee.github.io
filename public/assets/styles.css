@@ -1,0 +1,31 @@
+body {
+    font-family: "PT Serif", "serif";
+    background-color: #f2f2f2;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #0a0a0a;
+}
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.container {
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+a {
+    color: #f553d2;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
