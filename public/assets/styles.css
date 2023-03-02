@@ -29,3 +29,35 @@ img {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
+
+.heading h1, h2 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.heading p {
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #595959;
+}
+
+.heading {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+ol, ul {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+blockquote {
+    font-style: italic;
+    margin-left: 0.5em;
+    font-size: 20px;
+}
