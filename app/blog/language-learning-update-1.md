@@ -37,3 +37,33 @@ input, then read and converse a lot, and that's how you acquire a language. Gram
 translation - those are all either unnecessary or even harmful in the early stages, and input is the best method to
 natively absorb a language. For better or worse, I've learned some level of grammar Spanish due to the two semesters of
 classes and Language Transfer, but I don't think it's actively hurt me yet.
+
+![dreaming spanish timeline](https://uploads-ssl.webflow.com/60fb923336a77a79f20d5348/63bef77ee3b7c92dd671a076_Dreaming-Spanish-Timeline-Light-p-2000.png)
+
+My current input goal is 70 minutes/day; I'm hoping to have at least 600 hours of input by the end of the
+year, which is not mathematically sound (I'd have to get 118 minutes/day to reach that goal). However, my
+experience so far is that CI is absolutely a snowball: the better my comprehension, the easier it is to consume
+more content, since I will increasingly be able to understand longer, more interesting media (podcasts, TV
+shows, YouTube channels that interest me, video games, etc).
+
+![dreaming-spanish-results-february](https://i.imgur.com/IXH1Qtf.png)
+
+## Some Questions That People Don't Actually Ask Me, But I'm Insecure So I've Answered Them For Myself
+
+> What level of Spanish can you currently understand?
+
+[This video](https://youtu.be/ah3GH6fDq3E) is highly comprehensible for me (maybe 90-95%).
+
+>  Why not Duolingo/other app?
+
+Duolingo had me practice highly gamified garbage (even though I play FGO hmm) that is completely useless
+in practice, it taught me nothing about the context of what I was "learning," and it _heavily_
+relied on translation, which is very obviously not good. When will I ever fill in the blank or pick from
+a word bank? When will there ever be exactly one right answer for what to say in a situation? When will
+I have the time to translate back and forth from English in a real conversation? And how is it valuable
+whatsoever to formulate sentences when I have no means of understanding what someone is saying back to
+me?
+
+> How can you possibly learn a language without speaking it?
+
+[![ajatt-twitter](https://i.imgur.com/WQS4xbI.png)](https://fxtwitter.com/ajatt/status/1624438121919320065)
