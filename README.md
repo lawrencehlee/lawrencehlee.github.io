@@ -1,7 +1,12 @@
-Usage
+Prerequisites:
+
+* Python 3.12.1
+* pipenv
+
+Usage:
 
 ```
-# Python version: 3.12.1
 pipenv install
 pipenv run python publish.py [serve]
+# if serving, available at localhost:8000
 ```
