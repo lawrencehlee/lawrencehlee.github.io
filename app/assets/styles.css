@@ -1,7 +1,7 @@
 body {
     font-family: "PT Serif", "serif";
     background-color: #f2f2f2;
-    line-height: 1.6;
+    line-height: 1.65;
     font-size: 18px;
     color: #0a0a0a;
 }
@@ -31,8 +31,14 @@ img {
 }
 
 #blog h1, h2 {
-    margin-bottom: 0px;
-    margin-top: 0px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+#blog img {
+    max-width: 90%;
+    display: block;
+    margin: 0 auto;
 }
 
 #blog h5 {
@@ -40,6 +46,16 @@ img {
     margin-top: 0;
     margin-bottom: 0;
     color: #595959;
+}
+
+#blog h6 {
+    font-size: 14px;
+    font-style: italic;
+    color: #595959;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 #blog {
@@ -50,11 +66,6 @@ img {
 ol, ul {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-}
-
-#blog img {
-    display: flex;
-    justify-content: center;
 }
 
 blockquote {

@@ -24,7 +24,12 @@ def copy_root():
 
 def render_blogs():
     with open("app/blog/_template.html", 'r') as template_file:
-        to_render = template_file.read()
+        template = template_file.read()
+    try:
+        os.mkdir("public/blog")
+    except FileExistsError:
+        pass
+
     for md_file in [filename for filename in os.listdir("app/blog") if ".md" in filename]:
         print(f"Rendering {md_file}")
         base_filename = md_file[:-3]  # Strip .md
@@ -33,9 +38,8 @@ def render_blogs():
 
         html = markdown.markdown(contents)
         title = contents.split("\n")[0].replace("#", "").strip()
-        to_render = to_render.replace("{{ body }}", html).replace("{{ title }}", title)
+        to_render = template.replace("{{ body }}", html).replace("{{ title }}", title)
 
-        os.mkdir("public/blog")
         with open(f"public/blog/{base_filename}.html", 'w') as output_file:
             output_file.write(to_render)
 
