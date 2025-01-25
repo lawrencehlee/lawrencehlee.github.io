@@ -113,9 +113,8 @@ shot.
 
 ### Kanji
 
-Last year's revving of Anki worked out, and I finished all new cards in the RTK deck by ome
-lly. I just spend a quick 5-10
-minutes on reviews every day.
+Last year's revving of Anki worked out, and I finished all new cards in the RTK deck by mid-July. I just spend a quick
+5-10 minutes on reviews every day.
 
 ![RTK deck stats](https://i.imgur.com/lC7VMV7.png)
 
