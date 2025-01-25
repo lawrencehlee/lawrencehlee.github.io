@@ -2,7 +2,11 @@
 
 ##### 2024-12-31
 
-Welcome back! I'm coming in tepidly on the last day of 2024 with this year's language learning update.
+Welcome back! I'm coming in tepidly on the last day of 2024 with this year's language learning update. If you haven't,
+check out my prior updates for more background on where my language journey started:
+
+* [2023-03-01](/blog/2023-03-01-language-learning-update-1)
+* [2023-12-23](/blog/2023-12-23-language-learning-update-2)
 
 ![car salesman meme](https://i.imgur.com/Yl5c8IC.jpeg)
 
