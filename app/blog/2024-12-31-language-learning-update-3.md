@@ -11,7 +11,7 @@ Welcome back! I'm coming in tepidly on the last day of 2024 with this year's lan
 ## Summary
 
 * I'm still focused on acquiring Spanish and Japanese through comprehensible input (CI)
-  * Reminder: this means listening to the target language in contexts that I can (mostly) understand
+    * Reminder: this means listening to the target language in contexts that I can (mostly) understand
 * My focus has shifted largely to consuming Japanese input, with about a 3:1 split between it and Spanish
 * I've started reading Japanese and speaking Spanish a bit, both rewarding and fun ways to interact with the languages
   more
@@ -148,6 +148,19 @@ For example, with 神社, the process looked something like:
 Reading has also helped my brain formalize words that I hear all the time but never consciously have to think about,
 often small adverbs or particles. Grammar study isn't on my roadmap yet, but I wonder how far my understanding can get
 with just reading a bit.
+
+### Output
+
+I have to admit something even more appalling, even graver, beyonder the pale: I tried speaking Japanese a bit too. In
+preparation for my upcoming trip to Japan, I figured that I might try my hand and see what hundreds of hours of pure
+input would get me in terms of speaking, but the answer is truly: not much. I gave up after one session — it was
+frustrating and bad and I'm not surprised at all. I knew the words existed, but I couldn't magically pull them
+out of my head.
+
+Will input magically make you conversational? Clearly not _this_ amount of input. That's what this whole long-term
+experiment is about, right, that enough input will eventually enable output? It's obvious that the amount I have now is
+not enough yet. If my Japanese comprehension isn't at parity with my Spanish comprehension, then it stands to reason
+that my speaking wouldn't match either. And hence...
 
 ### Final thoughts on Japanese
 
