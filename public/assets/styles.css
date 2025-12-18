@@ -73,3 +73,24 @@ blockquote {
     margin-left: 0.5em;
     font-size: 20px;
 }
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    margin: 10px auto;
+    border-collapse: collapse;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+}
+
+th, td {
+    padding: 0.6em;
+}
+
+tr {
+    text-align: center;
+}
+
+tr:nth-child(odd) {
+    background-color: #eeeeee;
+}
