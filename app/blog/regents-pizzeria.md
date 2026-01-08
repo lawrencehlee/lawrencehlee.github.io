@@ -4,6 +4,7 @@
 
 - [Intro](#intro)
 - [2025-12-17](#2025-12-17)
+- [2026-01-07](#2026-01-07)
 
 ## Intro<a id="intro"></a>
 
@@ -31,6 +32,105 @@ Some simple rules that assuredly will be broken:
 
 You can find my raw data
 spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7PWn_F90D3Yy_x9A3uGFDx0/edit?usp=sharing).
+
+## 2026-01-07 (Wednesday)<a id="2026-01-07"></a>
+
+It was our anniversary, so Alyssa gets to be this project's first guest.
+
+### NY Lord Alfredo
+
+![lord alfredo](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-07-lord-alfredo.jpg)
+
+* Price: $6.75
+* Rating: +1
+* Tier: B
+
+I wasn't too impressed with this slice. The Calabrian chilis were honestly a bit overwhelming.
+
+### NY Show Pony
+
+![show pony](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-07-show-pony.jpg)
+
+* Price: $6.75
+* Rating: +2
+* Tier: A
+
+Great execution of a fried chicken pizza. The pancetta was a nice touch.
+
+### NY Brooklyner
+
+![brooklyner](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-07-brooklyner.jpg)
+
+* Price: $6.75
+* Rating: +3
+* Tier: S
+
+This is probably the best pizza at Regents. It's so good every time, and if you get lucky, your slice will have 3+
+massive dollops of ricotta. Try it with added jalapeños.
+
+### Tier List
+
+![tieir list](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-07-tier-list.png)
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-07-beer.jpg)
+
+My beer:
+
+* Tap number: 8
+* Beer: Embolden Midnight in Tokyo
+* Type: Hazy IPA with matcha
+
+Alyssa's cider:
+
+* Tap number: 15
+* Beer: Serpentine x Regents 20th Anniversary Cider
+* Type: Cider
+
+These were good drinks.
+
+#### Tap Table
+
+<table>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>🍺</td>
+        <td>9</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>🍺</td>
+        <td>13</td>
+        <td>14</td>
+        <td>🍺</td>
+        <td>16</td>
+        <td>17</td>
+        <td>18</td>
+        <td>19</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>22</td>
+        <td>33</td>
+        <td>44</td>
+        <td>25</td>
+        <td>26</td>
+        <td>27</td>
+        <td>28</td>
+        <td>29</td>
+        <td>30</td>
+    </tr>
+</table>
+
 
 ## 2025-12-17 (Wednesday)<a id="2025-12-17"></a>
 
