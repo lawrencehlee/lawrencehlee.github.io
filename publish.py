@@ -3,6 +3,7 @@ import markdown
 import os
 import shutil
 import http.server
+import random
 import socketserver
 import sys
 
@@ -50,7 +51,8 @@ if __name__ == "__main__":
     render_blogs()
 
     if len(sys.argv) > 1 and sys.argv[1] == "serve":
+        port = random.randint(8000, 8999)
         os.chdir("public")
-        with socketserver.TCPServer(("", 8000), http.server.SimpleHTTPRequestHandler) as httpd:
-            print("Serving at port 8000")
+        with socketserver.TCPServer(("", port), http.server.SimpleHTTPRequestHandler) as httpd:
+            print(f"Serving at http://localhost:{port}")
             httpd.serve_forever()

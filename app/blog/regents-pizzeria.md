@@ -3,15 +3,16 @@
 ## Table of Contents
 
 - [Intro](#intro)
-- [2025-12-17](#2025-12-17)
+- [2026-01-14](#2026-01-14)
 - [2026-01-07](#2026-01-07)
+- [2025-12-17](#2025-12-17)
 
 ## Intro<a id="intro"></a>
 
 I've been to Regents Pizzeria in La Jolla a lot.
 As of this writing (December 17, 2025), I've had 187 loyalty check-ins, which is a lowball considering the
 pre-loyalty era or
-the times that I've forgotten to put in my loyalty. With a conservative estimated spend of \$25 per visit, that's \$3740
+the times that I've forgotten to put in my loyalty. With a conservative estimated spend of $25 per visit, that's $3740
 over my lifetime, by far the most money I've spent at any single establishment. (This high volume is largely because my
 band, Super Tonic,
 has been ritualistically going since 2022 after our weekly Wednesday night rehearsals.)
@@ -32,6 +33,76 @@ Some simple rules that assuredly will be broken:
 
 You can find my raw data
 spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7PWn_F90D3Yy_x9A3uGFDx0/edit?usp=sharing).
+
+## 2026-01-14 (Wednesday)<a id="2026-01-14"></a>
+
+Yuh
+
+### Rigatoni Chicken Pesto (sub fried chicken)
+
+![pasta](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-pasta.jpg)
+
+* Price: $25.50
+* Rating: +2
+* Tier: A
+
+This normally comes with chicken mixed into the pasta, but you can thank my friend Sarah for pioneering the fried
+chicken sub (she usually does it on fettuccine alfredo). The sub is expensive but worth it every now and then, at least
+for me.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-beer.jpg)
+
+* Tap number: 21
+* Beer: Russian River Robert
+* Type: Saison
+* Asshole in the back: Unknown
+
+Pretty good beer.
+
+#### Tap Table
+
+<table>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>🍺</td>
+        <td>9</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>🍺</td>
+        <td>13</td>
+        <td>14</td>
+        <td>🍺</td>
+        <td>16</td>
+        <td>17</td>
+        <td>18</td>
+        <td>19</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>🍺</td>
+        <td>22</td>
+        <td>23</td>
+        <td>24</td>
+        <td>25</td>
+        <td>26</td>
+        <td>27</td>
+        <td>28</td>
+        <td>29</td>
+        <td>30</td>
+    </tr>
+</table>
+
+[^ back to top](#table-of-contents)
 
 ## 2026-01-07 (Wednesday)<a id="2026-01-07"></a>
 
@@ -118,10 +189,10 @@ These were good drinks.
         <td>20</td>
     </tr>
     <tr>
+        <td>21</td>
         <td>22</td>
-        <td>22</td>
-        <td>33</td>
-        <td>44</td>
+        <td>23</td>
+        <td>24</td>
         <td>25</td>
         <td>26</td>
         <td>27</td>
@@ -131,6 +202,7 @@ These were good drinks.
     </tr>
 </table>
 
+[^ back to top](#table-of-contents)
 
 ## 2025-12-17 (Wednesday)<a id="2025-12-17"></a>
 
@@ -208,10 +280,10 @@ This was a good beer.
         <td>20</td>
     </tr>
     <tr>
+        <td>21</td>
         <td>22</td>
-        <td>22</td>
-        <td>33</td>
-        <td>44</td>
+        <td>23</td>
+        <td>24</td>
         <td>25</td>
         <td>26</td>
         <td>27</td>
@@ -220,3 +292,5 @@ This was a good beer.
         <td>30</td>
     </tr>
 </table>
+
+[^ back to top](#table-of-contents)
