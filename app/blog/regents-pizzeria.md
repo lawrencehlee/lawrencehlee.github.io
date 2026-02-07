@@ -1,8 +1,9 @@
 # The Regents Pizzeria Completionist Run
 
-## Table of Contents
+## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-02-04](#2026-02-04)
 - [2026-01-14](#2026-01-14)
 - [2026-01-07](#2026-01-07)
 - [2025-12-17](#2025-12-17)
@@ -34,39 +35,16 @@ Some simple rules that assuredly will be broken:
 You can find my raw data
 spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7PWn_F90D3Yy_x9A3uGFDx0/edit?usp=sharing).
 
-## 2026-01-14 (Wednesday)<a id="2026-01-14"></a>
+#### Tier List
 
-Yuh
-
-### Rigatoni Chicken Pesto (sub fried chicken)
-
-![pasta](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-pasta.jpg)
-
-* Price: $25.50
-* Rating: +2
-* Tier: A
-
-This normally comes with chicken mixed into the pasta, but you can thank my friend Sarah for pioneering the fried
-chicken sub (she usually does it on fettuccine alfredo). The sub is expensive but worth it every now and then, at least
-for me.
-
-### Beer section
-
-![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-beer.jpg)
-
-* Tap number: 21
-* Beer: Russian River Robert
-* Type: Saison
-* Asshole in the back: Unknown
-
-Pretty good beer.
+![tier list](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-tier-list.png)
 
 #### Tap Table
 
 <table>
     <tr>
         <td>1</td>
-        <td>2</td>
+        <td>🍺</td>
         <td>3</td>
         <td>4</td>
         <td>5</td>
@@ -101,6 +79,50 @@ Pretty good beer.
         <td>30</td>
     </tr>
 </table>
+
+## 2026-01-04 (Wednesday)<a id="2026-02-04"></a>
+
+I've been traveling for the last few weeks, hence the long break since the last venture, and it shows. I was so out of
+practice that I forgot to photograph the food, so unfortunately it's just a beer for today.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-02-04-beer.jpg)
+
+* Tap number: 2
+* Beer: Chapman Slow Riser
+* Type: Red ale on nitro
+
+Quite a good beer.
+
+[^ back to top](#table-of-contents)
+
+## 2026-01-14 (Wednesday)<a id="2026-01-14"></a>
+
+Yuh
+
+### Rigatoni Chicken Pesto (sub fried chicken)
+
+![pasta](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-pasta.jpg)
+
+* Price: $25.50
+* Rating: +2
+* Tier: A
+
+This normally comes with chicken mixed into the pasta, but you can thank my friend Sarah for pioneering the fried
+chicken sub (she usually does it on fettuccine alfredo). The sub is expensive but worth it every now and then, at least
+for me.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-beer.jpg)
+
+* Tap number: 21
+* Beer: Russian River Robert
+* Type: Saison
+* Asshole in the back: Unknown
+
+Pretty good beer.
 
 [^ back to top](#table-of-contents)
 
@@ -139,10 +161,6 @@ Great execution of a fried chicken pizza. The pancetta was a nice touch.
 This is probably the best pizza at Regents. It's so good every time, and if you get lucky, your slice will have 3+
 massive dollops of ricotta. Try it with added jalapeños.
 
-### Tier List
-
-![tieir list](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-07-tier-list.png)
-
 ### Beer section
 
 ![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-07-beer.jpg)
@@ -160,47 +178,6 @@ Alyssa's cider:
 * Type: Cider
 
 These were good drinks.
-
-#### Tap Table
-
-<table>
-    <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-        <td>7</td>
-        <td>🍺</td>
-        <td>9</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>🍺</td>
-        <td>13</td>
-        <td>14</td>
-        <td>🍺</td>
-        <td>16</td>
-        <td>17</td>
-        <td>18</td>
-        <td>19</td>
-        <td>20</td>
-    </tr>
-    <tr>
-        <td>21</td>
-        <td>22</td>
-        <td>23</td>
-        <td>24</td>
-        <td>25</td>
-        <td>26</td>
-        <td>27</td>
-        <td>28</td>
-        <td>29</td>
-        <td>30</td>
-    </tr>
-</table>
 
 [^ back to top](#table-of-contents)
 
@@ -233,10 +210,6 @@ cauliflower with the gochujang sauce instead, courtesy of Sam.
 You also should know that I have a particular attachment to Regents ranch. I actually didn't like ranch until about
 a year and a half ago, but now I'm quite the connoisseur.
 
-### Tier List
-
-![2025-12-17 tier list](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2025-12-17-tier-list.png)
-
 Diff:
 
 * CH meat lovers: (n/a) -> A
@@ -251,46 +224,5 @@ Diff:
 * Type: English pale ale
 
 This was a good beer.
-
-#### Tap Table
-
-<table>
-    <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-        <td>7</td>
-        <td>8</td>
-        <td>9</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>🍺</td>
-        <td>13</td>
-        <td>14</td>
-        <td>15</td>
-        <td>16</td>
-        <td>17</td>
-        <td>18</td>
-        <td>19</td>
-        <td>20</td>
-    </tr>
-    <tr>
-        <td>21</td>
-        <td>22</td>
-        <td>23</td>
-        <td>24</td>
-        <td>25</td>
-        <td>26</td>
-        <td>27</td>
-        <td>28</td>
-        <td>29</td>
-        <td>30</td>
-    </tr>
-</table>
 
 [^ back to top](#table-of-contents)
