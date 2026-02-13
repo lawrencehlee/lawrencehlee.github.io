@@ -3,6 +3,7 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-02-11](#2026-02-11)
 - [2026-02-04](#2026-02-04)
 - [2026-01-14](#2026-01-14)
 - [2026-01-07](#2026-01-07)
@@ -37,7 +38,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
 
 #### Tier List
 
-![tier list](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-01-14-tier-list.png)
+![tier list](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/regents-tier-list-latest.png)
 
 #### Tap Table
 
@@ -72,13 +73,45 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>23</td>
         <td>24</td>
         <td>25</td>
-        <td>26</td>
+        <td>🍺</td>
         <td>27</td>
         <td>28</td>
         <td>29</td>
         <td>30</td>
     </tr>
 </table>
+
+## 2026-02-11 (Wednesday)<a id="2026-02-11"></a>
+
+Oh yo?
+
+### Lasagna Bolognese
+
+![lasagna](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-02-11-lasagna.jpg)
+
+* Price: $19.00
+* Rating: +2
+* Tier: A
+
+[Required watching.](https://youtu.be/oaWYvnJg1CE?si=SZOqcIPEHLD2dc_V)
+
+I'm no lasagna expert. I'm no bolognese expert. There probably exist better lasagnas out there, made by tottering nonnas
+in farmside kitchens surrounded by children bickering over the will and magnum bottles of Italian wine. There probably
+exist better bologneses out there, made by apprentice chefs in their 8th year dedicated to stirring suckling sheep from
+artisan open-air markets, purveyed by eagle-eyed entrepreneurial empresarios. I haven't had that lasagna. I have had
+this one, and it's rather good.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-02-11-beer.jpg)
+
+* Tap number: 26
+* Beer: North Coast Brewing Company Pranqster
+* Type: Belgian strong golden ale
+
+I like this beer.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-01-04 (Wednesday)<a id="2026-02-04"></a>
 
@@ -183,7 +216,7 @@ These were good drinks.
 
 ## 2025-12-17 (Wednesday)<a id="2025-12-17"></a>
 
-### CH meat lovers
+### CH Meat Lovers
 
 ![slice](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2025-12-17-pizza.jpg)
 
@@ -194,7 +227,7 @@ These were good drinks.
 An absolute Regents staple and my preferred Chicago slice. Chicago-style tends to be a mass of cheese and carbs, but the
 sausage and cured meats have enough flavor to cut through all of that.
 
-### Gochujang wings (6, ranch)
+### Gochujang Wings (6, ranch)
 
 ![wings](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2025-12-17-wings.jpg)
 
