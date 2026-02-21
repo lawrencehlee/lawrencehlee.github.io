@@ -3,6 +3,8 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-02-18](#2026-02-18)
+- [2026-02-17](#2026-02-17)
 - [2026-02-11](#2026-02-11)
 - [2026-02-04](#2026-02-04)
 - [2026-01-14](#2026-01-14)
@@ -56,13 +58,13 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>10</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>🍺</td>
         <td>🍺</td>
         <td>13</td>
         <td>14</td>
         <td>🍺</td>
         <td>16</td>
-        <td>17</td>
+        <td>🍺</td>
         <td>18</td>
         <td>19</td>
         <td>20</td>
@@ -80,6 +82,61 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>30</td>
     </tr>
 </table>
+
+## 2026-02-18 (Wednesday)<a id="2026-02-18"></a>
+
+That's right, two days in a row.
+
+### CH Top Down BBQ Chicken
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-02-18-pizza.jpg)
+
+* Price: $7.75
+* Rating: +1
+* Tier: B
+
+Look, I like BBQ chicken, what can I say? It's one of these classic American-ish flavor profiles that I would have
+sneered at when I was 22. And this slice delivered that profile in a perfectly acceptable form factor.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-02-18-beer.jpg)
+
+* Tap number: 17
+* Beer: Russian River Row 2, Hill 56
+* Type: Pale ale
+
+Russian River Flows In You.
+
+[^ back to top](#table-of-contents)
+
+## 2026-02-17 (Tuesday)<a id="2026-02-17"></a>
+
+A strange off-Tuesday, though it's not so strange given the context of a post-pepband rehearsal.
+
+### Fettuccine Alfredo
+
+![pasta](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-02-17-pasta.jpg)
+
+* Price: $17.50
+* Rating: 0
+* Tier: B
+
+There's no denying that this pasta tastes decent and is well-executed, but it's truly quite plain, and I can't justify
+the $17.50 price tag. I'd recommend you always add chicken, either grilled or fried. That's why it's a B in tier but 
+a 0 in rating.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-02-17-beer.jpg)
+
+* Tap number: 11
+* Beer: Russian River Velvet Glow
+* Type: Helles lager
+
+Big Russian River going on at Regents this week.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-02-11 (Wednesday)<a id="2026-02-11"></a>
 
