@@ -3,6 +3,7 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-03-04](#2026-03-04)
 - [2026-02-18](#2026-02-18)
 - [2026-02-17](#2026-02-17)
 - [2026-02-11](#2026-02-11)
@@ -60,7 +61,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
     <tr>
         <td>🍺</td>
         <td>🍺</td>
-        <td>13</td>
+        <td>🍺</td>
         <td>14</td>
         <td>🍺</td>
         <td>16</td>
@@ -82,6 +83,30 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>30</td>
     </tr>
 </table>
+
+## 2026-03-04 (Wednesday)<a id="2026-03-04"></a>
+
+### NY Havana Slamma
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-04-pizza.jpg)
+
+* Price: $6.75
+* Rating: +2
+* Tier: A
+
+A positively delightful slice, obviously evoking a cubano sandwich but in no way as a detriment.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-04-beer.jpg)
+
+* Tap number: 13
+* Beer: Insurgente Orange Wit
+* Type: Orange wit
+
+This brewery is in a cool spot in downtown TJ. Check it out if you're ever there.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-02-18 (Wednesday)<a id="2026-02-18"></a>
 
