@@ -71,7 +71,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>20</td>
     </tr>
     <tr>
-        <td>🍺</td>
+        <td>🍺🍺</td>
         <td>22</td>
         <td>23</td>
         <td>24</td>
@@ -83,6 +83,33 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>30</td>
     </tr>
 </table>
+
+## 2026-03-11 (Wednesday)<a id="2026-03-11"></a>
+
+### Meat Lovers Calzone
+
+![calzone](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-11-calzone.jpg)
+
+* Price: $19.00
+* Rating: +3
+* Tier: S
+
+The scrolls dictate the secret calzone tech: call ahead, as they take 25 minutes to make. But if you do opt for one,
+especially this meat lovers calzone, you won't regret it. Honestly it's like if you took the toppings of a Chicago meat
+lovers slice, improved the carb ratio, and then put the marinara on the side to add as much as you pleased.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-11-beer.jpg)
+
+* Tap number: 21 (x2)
+* Beer: Chula Vista All That Jas
+* Type: Japanese rice lager
+
+My first duplicate tap, but it was gonna happen eventually. What struck me about this beer is that it's a jasmine rice
+Japanese lager, even though Japanese rice isn't even jasmine??? Whatever. Good beer.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-03-04 (Wednesday)<a id="2026-03-04"></a>
 
@@ -148,7 +175,7 @@ A strange off-Tuesday, though it's not so strange given the context of a post-pe
 * Tier: B
 
 There's no denying that this pasta tastes decent and is well-executed, but it's truly quite plain, and I can't justify
-the $17.50 price tag. I'd recommend you always add chicken, either grilled or fried. That's why it's a B in tier but 
+the $17.50 price tag. I'd recommend you always add chicken, either grilled or fried. That's why it's a B in tier but
 a 0 in rating.
 
 ### Beer section
