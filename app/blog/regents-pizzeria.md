@@ -3,6 +3,8 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-03-18](#2026-03-18)
+- [2026-03-11](#2026-03-11)
 - [2026-03-04](#2026-03-04)
 - [2026-02-18](#2026-02-18)
 - [2026-02-17](#2026-02-17)
@@ -48,7 +50,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
 <table>
     <tr>
         <td>1</td>
-        <td>🍺</td>
+        <td>🍺🍺</td>
         <td>3</td>
         <td>4</td>
         <td>5</td>
@@ -83,6 +85,44 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>30</td>
     </tr>
 </table>
+
+## 2026-03-18 (Wednesday)<a id="2026-03-18"></a>
+
+### Goat Cheese Salad (side)
+
+![salad](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-18-salad.jpg)
+
+* Price: $6.00
+* Rating: +1
+* Tier: B
+
+The problem with all Regents salads is that they don't toss them. It's just ingredients separated on a small plate with
+a side cup of dressing. How am I supposed to actually toss the salad like this? Give me space to work, at least. But the
+good thing about this salad is that a side order comes with 1 puck of goat cheese, and so does a small salad, so you
+should almost always get the side. (A large comes with more, I believe.)
+
+### Rigatoni Alla Vodka (sub fettuccine)
+
+![pasta](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-18-pasta.jpg)
+
+* Price: $17.50
+* Rating: +2
+* Tier: A
+
+They were out of rigatoni. Not sure how that's possible, but Regents will sub any available pasta shape if you ask for
+it, presumably even if they aren't out. Though the sauce is a bit one-note, this remains a nice pasta; I'd probably bump
+it up a few slots for the rigatoni because the pancetta can get inside the holes of the noodles.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-18-beer.jpg)
+
+* Tap number: 2 (x2)
+* Beer: North Coast Old Rasputin on nitro
+* Type: Imperial stout
+
+My bad, I didn't know I got tap 2 already. I used to love this beer (bottled, not nitro) when I first started drinking,
+but I've grown weary of high ABV beers in general, so this didn't hit the way it did before.
 
 ## 2026-03-11 (Wednesday)<a id="2026-03-11"></a>
 
