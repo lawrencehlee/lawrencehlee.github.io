@@ -3,6 +3,7 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-03-25](#2026-03-25)
 - [2026-03-18](#2026-03-18)
 - [2026-03-11](#2026-03-11)
 - [2026-03-04](#2026-03-04)
@@ -53,7 +54,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>🍺🍺</td>
         <td>3</td>
         <td>4</td>
-        <td>5</td>
+        <td>🍺</td>
         <td>6</td>
         <td>7</td>
         <td>🍺</td>
@@ -85,6 +86,43 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>30</td>
     </tr>
 </table>
+
+## 2026-03-25 (Wednesday)<a id="2026-03-25"></a>
+
+### NY White
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-25-pizza.jpg)
+
+* Price: $6.25
+* Rating: +3
+* Tier: S
+
+Maybe the first slice I ever had at Regents, and certainly the slice that has been in the Regents mainstay for as long
+as I can remember. It's so solid. I can eat a whole pie of this.
+
+
+### Serrano Tequila Wings (6)
+
+![wings](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-25-wings.jpg)
+
+* Price: $12.00
+* Rating: +2
+* Tier: A
+
+I've gone off-menu in the past, but this may be the most flagrant infraction, as this sauce isn't present anywhere on 
+the menu. But you can ask for it, and it is banging.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-25-beer.jpg)
+
+* Tap number: 5
+* Beer: Battlemage Summon Ifrit
+* Type: Amber
+
+Gooood beeeer.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-03-18 (Wednesday)<a id="2026-03-18"></a>
 
@@ -123,6 +161,8 @@ it up a few slots for the rigatoni because the pancetta can get inside the holes
 
 My bad, I didn't know I got tap 2 already. I used to love this beer (bottled, not nitro) when I first started drinking,
 but I've grown weary of high ABV beers in general, so this didn't hit the way it did before.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-03-11 (Wednesday)<a id="2026-03-11"></a>
 
