@@ -3,6 +3,8 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-04-15](#2026-04-15)
+- [2026-04-01](#2026-04-01)
 - [2026-03-25](#2026-03-25)
 - [2026-03-18](#2026-03-18)
 - [2026-03-11](#2026-03-11)
@@ -58,7 +60,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>6</td>
         <td>7</td>
         <td>🍺</td>
-        <td>9</td>
+        <td>🍺</td>
         <td>10</td>
     </tr>
     <tr>
@@ -71,7 +73,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>🍺</td>
         <td>18</td>
         <td>19</td>
-        <td>20</td>
+        <td>🍺</td>
     </tr>
     <tr>
         <td>🍺🍺</td>
@@ -86,6 +88,71 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>30</td>
     </tr>
 </table>
+
+## 2026-04-15 (Wednesday)<a id="2026-04-15"></a>
+
+### Nashville Hot Tender Fries (sub feta)
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-15-tendies.jpg)
+
+* Price: $15.50
+* Rating: +1
+* Tier: A
+
+I love ordering this. The serving size is massive. The fry on the tenders is great. Feta is a better cheese than 
+gorgonzola, sorry. But I can't rate it higher because it's just instant heartburn in a meal.
+
+### Greek salad (small)
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-15-salad.jpg)
+
+* Price: $12.50
+* Rating: +1
+* Tier: B
+
+Most Greek restaurants will do a better Greek salad, but this is a passable impersonation.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-15-beer.jpg)
+
+* Tap number: 20
+* Beer: Radiant Gaining Momentum
+* Type: Hazy pale ale
+
+Yeah beer.
+
+## 2026-04-01 (Wednesday)<a id="2026-04-01"></a>
+
+### CH Blunty McBlunterson
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-01-pizza.jpg)
+
+* Price: $7.75
+* Rating: -1
+* Tier: C
+
+A slice of everything and therefore nothing.
+
+### Caesar salad (side)
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-01-salad.jpg)
+
+* Price: $6.50
+* Rating: +1
+* Tier: B
+
+As with most things (except the above slice), it's better when topped with fried chicken.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-01-beer.jpg)
+
+* Tap number: 20
+* Beer: Ketch Opening Day
+* Type: IPA
+
+Beer, it was.
 
 ## 2026-03-25 (Wednesday)<a id="2026-03-25"></a>
 
