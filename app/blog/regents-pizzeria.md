@@ -3,6 +3,7 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-04-22](#2026-04-22)
 - [2026-04-15](#2026-04-15)
 - [2026-04-01](#2026-04-01)
 - [2026-03-25](#2026-03-25)
@@ -52,7 +53,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
 
 <table>
     <tr>
-        <td>1</td>
+        <td>🍺</td>
         <td>🍺🍺</td>
         <td>3</td>
         <td>4</td>
@@ -89,11 +90,43 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
     </tr>
 </table>
 
+## 2026-04-22 (Wednesday)<a id="2026-04-22"></a>
+
+### NY Dominics
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-22-pizza.jpg)
+
+* Price: $6.25
+* Rating: +1
+* Tier: B
+
+A glorified cheese pizza? Still tastes good, but almost no reason I'd ever order this over white or milano.
+
+### Jalapeño Wings (6)
+
+![wings](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-22-wings.jpg)
+
+* Price: $12.00
+* Rating: +0
+* Tier: C
+
+Mostly just acid? Sorry I ate two wings before taking the photo.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-22-beer.jpg)
+
+* Tap number: 1
+* Beer: 2AM Bike Ride (on nitro)
+* Type: Stout
+
+I'm pretty over nitro stouts.
+
 ## 2026-04-15 (Wednesday)<a id="2026-04-15"></a>
 
 ### Nashville Hot Tender Fries (sub feta)
 
-![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-15-tendies.jpg)
+![tendies](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-15-tendies.jpg)
 
 * Price: $15.50
 * Rating: +1
@@ -104,7 +137,7 @@ gorgonzola, sorry. But I can't rate it higher because it's just instant heartbur
 
 ### Greek salad (small)
 
-![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-15-salad.jpg)
+![salad](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-15-salad.jpg)
 
 * Price: $12.50
 * Rating: +1
