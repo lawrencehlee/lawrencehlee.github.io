@@ -3,6 +3,7 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-04-29](#2026-04-29)
 - [2026-04-22](#2026-04-22)
 - [2026-04-15](#2026-04-15)
 - [2026-04-01](#2026-04-01)
@@ -85,10 +86,46 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>🍺</td>
         <td>27</td>
         <td>28</td>
-        <td>29</td>
+        <td>🍺</td>
         <td>30</td>
     </tr>
 </table>
+
+## 2026-04-29 (Wednesday)<a id="2026-04-29"></a>
+
+No rehearsal today, hence the early evening lighting in the photos.
+
+### NY Legalize Pepperoni
+
+![pizza](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-29-pizza.jpg)
+
+* Price: $6.75
+* Rating: +2
+* Tier: A
+
+It's like... pepperoni, but more. So much more that it should be illegal. Huh?
+
+### Brussel sprouts
+
+![brussels](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-29-brussels.jpg)
+
+* Price: $12.00
+* Rating: +1
+* Tier: B
+
+I think there's an upper limit to how good brussel sprouts can get, and this doesn't quite hit it.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-04-29-beer.jpg)
+
+* Tap number: 29
+* Beer: Juneshine POG
+* Type: Hard kombucha
+
+This is not a beer, but I did have to make it to the non-beer taps eventually.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-04-22 (Wednesday)<a id="2026-04-22"></a>
 
@@ -121,6 +158,8 @@ Mostly just acid? Sorry I ate two wings before taking the photo.
 * Type: Stout
 
 I'm pretty over nitro stouts.
+
+[^ back to top](#table-of-contents)
 
 ## 2026-04-15 (Wednesday)<a id="2026-04-15"></a>
 
