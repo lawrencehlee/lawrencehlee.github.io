@@ -3,6 +3,7 @@
 ## Table of Contents<a id="table-of-contents"></a>
 
 - [Intro](#intro)
+- [2026-05-06](#2026-05-06)
 - [2026-04-29](#2026-04-29)
 - [2026-04-22](#2026-04-22)
 - [2026-04-15](#2026-04-15)
@@ -73,7 +74,7 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>🍺</td>
         <td>16</td>
         <td>🍺</td>
-        <td>18</td>
+        <td>🍺</td>
         <td>19</td>
         <td>🍺</td>
     </tr>
@@ -90,6 +91,33 @@ spreadsheet [here](https://docs.google.com/spreadsheets/d/1ZoRnBxQyA8BhbFeQureh7
         <td>30</td>
     </tr>
 </table>
+
+## 2026-05-06 (Wednesday)<a id="2026-05-06"></a>
+
+Weee?
+
+### Spaghetti and Meatballs
+
+![pasta](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-05-06-pasta.jpg)
+
+* Price: $17.50
+* Rating: +2
+* Tier: A
+
+I have a particular fondness for this dish, but only at Regents; there's no childhood connection at all.
+The meatballs are particularly well-spiced here. I would honestly recommend trying this to everyone.
+
+### Beer section
+
+![beer](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-05-06-beer.jpg)
+
+* Tap number: 18
+* Beer: Big Sky Brewing Moose Drool
+* Type: Brown ale
+
+Solid as a rock
+
+[^ back to top](#table-of-contents)
 
 ## 2026-04-29 (Wednesday)<a id="2026-04-29"></a>
 
@@ -171,7 +199,7 @@ I'm pretty over nitro stouts.
 * Rating: +1
 * Tier: A
 
-I love ordering this. The serving size is massive. The fry on the tenders is great. Feta is a better cheese than 
+I love ordering this. The serving size is massive. The fry on the tenders is great. Feta is a better cheese than
 gorgonzola, sorry. But I can't rate it higher because it's just instant heartburn in a meal.
 
 ### Greek salad (small)
@@ -239,7 +267,6 @@ Beer, it was.
 Maybe the first slice I ever had at Regents, and certainly the slice that has been in the Regents mainstay for as long
 as I can remember. It's so solid. I can eat a whole pie of this.
 
-
 ### Serrano Tequila Wings (6)
 
 ![wings](https://lawrencehlee-website-assets.s3.us-west-1.amazonaws.com/2026-03-25-wings.jpg)
@@ -248,7 +275,7 @@ as I can remember. It's so solid. I can eat a whole pie of this.
 * Rating: +2
 * Tier: A
 
-I've gone off-menu in the past, but this may be the most flagrant infraction, as this sauce isn't present anywhere on 
+I've gone off-menu in the past, but this may be the most flagrant infraction, as this sauce isn't present anywhere on
 the menu. But you can ask for it, and it is banging.
 
 ### Beer section
